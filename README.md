@@ -1,3 +1,4 @@
+Gen Z Project
 Project Summary
 
 Gen Z Career Aspirations & Workplace Expectations was an end-to-end data analytics project focused on understanding what Gen Z expects from their careers and where gaps exist between employee expectations and employer needs.
