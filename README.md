@@ -177,5 +177,4 @@ ORDER BY count DESC;
 ## Limitations
 - Survey-based and self-reported, so responses show stated preferences, not actual behaviour.
 - The sample is 96.5% India-based and 59.65% male, so results speak most directly to India's urban Gen Z workforce.
-**Astha Kumari Jha** | MBA (Data Science & Analytics), Jain University
-[LinkedIn URL] | [GitHub](https://github.com/Asthajha4275)
+
