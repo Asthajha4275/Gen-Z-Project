@@ -2,8 +2,6 @@
 
 > A survey-based data analytics project (KultureHire Data Analytics Learnternship) that analyses 3,613 Gen Z responses using Excel pivot tables, SQL and Power BI to show where career expectations and employer offers do not match, and what employers can do about it.
 
-![Power BI Dashboard](images/powerbi_manager_aspirations.png)
-*Replace with a screenshot of your Power BI dashboard.*
 
 ## Business Problem
 Organisations struggle to attract and retain Gen Z employees. Gen Z is often labelled "difficult" or "disloyal", but the real issue may be a mismatch in expectations and communication. This project measures that gap with data instead of opinion.
