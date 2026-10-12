@@ -1,4 +1,13 @@
-# Gen Z Career Aspirations & the Employer Expectation Gap
+  ## Architecture Diagram
+![Architecture Diagram](diagram.png)
+
+  # Gen Z Career Aspirations & the Employer Expectation Gap
+
+> A survey-based data analytics project (KultureHire Data Analytics Learnternship) that analyses 3,613 Gen Z responses using Excel pivot tables, SQL and Power BI to show where career expectations and employer offers do not match, and what employers can do about it.
+
+  ## Business Problem
+ Organisations struggle to attract and retain Gen Z employees. Gen Z is often labelled "difficult" or "disloyal", but the real issue may be a mismatch in expectations and communication. This project measures that gap with data instead of opinion.
+
 
 > A survey-based data analytics project (KultureHire Data Analytics Learnternship) that analyses 3,613 Gen Z responses using Excel pivot tables, SQL and Power BI to show where career expectations and employer offers do not match, and what employers can do about it.
 
